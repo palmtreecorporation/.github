@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/palmshed-org/main/.github/assets/thumbnail.png" alt="palmshed-org" width="100%">
+</p>
+
 # .github
 
 Shared files and configuration for the Palmshed GitHub organization.
