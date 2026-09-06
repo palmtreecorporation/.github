@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/palmshed-org/main/.github/assets/thumbnail.png" alt="palmshed-org" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/palmshed-org/main/.github/assets/thumbnail.png" alt="palmshed-org" width="100%">
 </p>
 
 # .github
